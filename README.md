@@ -35,8 +35,13 @@
 
 ![](https://github.com/Artem-Babenko/AnnouncementWebApp/blob/8e59413e13d10ac43c78a58d8bf4e16fef1d0c89/Screenshots/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.jpg)
 
-## Не завершені проекти
+## Незавершені проекти
 ### SpendWise
-**[Проект "SpendWise"](https://github.com/Artem-Babenko/SpendWiseWebApp)** - це незавершений веб додаток про фінансовий менеджмент. Написаний використовуючи **ASP.NET Core** та архітектурний патерн **MVC**.
+**[Проект "SpendWise"](https://github.com/Artem-Babenko/SpendWiseWebApp)** - це незавершений веб-додаток про фінансовий менеджмент. Написаний використовуючи **ASP.NET Core** та архітектурний патерн **MVC**.
 
 ![](https://github.com/Artem-Babenko/SpendWiseWebApp/blob/f23d7dfc8dab79c8b19dbffb289690369a33597e/Screenshots/transactions.jpg)
+
+### Clothes Shop
+**[Проект "Clothes Shop"](https://github.com/Artem-Babenko/ClothesShopWebApp)** - це незавершений веб-додаток для магазину чоловічого та жіночого одягу. Написаний використовуючи **ASP.NET Core** та архітектурний патерн **MVC**.
+
+![](https://github.com/Artem-Babenko/ClothesShopWebApp/blob/3d30863e4db48a57f430affe4cc7d9369c433d12/Screenshots/photo.png)
