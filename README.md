@@ -44,4 +44,4 @@
 ### Clothes Shop
 **[Проект "Clothes Shop"](https://github.com/Artem-Babenko/ClothesShopWebApp)** - це незавершений веб-додаток для магазину чоловічого та жіночого одягу. Написаний використовуючи **ASP.NET Core** та архітектурний патерн **MVC**.
 
-![](https://github.com/Artem-Babenko/ClothesShopWebApp/blob/3d30863e4db48a57f430affe4cc7d9369c433d12/Screenshots/photo.png)
+![](https://github.com/Artem-Babenko/ClothesShopWebApp/blob/19e2c7cb5dea37e2e90280251a99886041ed24ba/Screenshots/photo.png)
